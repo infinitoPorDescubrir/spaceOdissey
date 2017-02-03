@@ -1,0 +1,15 @@
+
+Cambiar la musica de fondo.
+---------------------------
+
+En la ventana Projects, click derecho sobre la carpeta Music -> Import music y elegir el archivo de audio
+Luego, ir a Game Events -> Player and general
+Editar el evento #10 y cambiar el audio file seleccionado por el que importamos.
+
+
+Cambiar sfx de disparo del enemigo que gira.
+--------------------------------------------
+
+En la ventana Projects, click derecho sobre la carpeta Sounds -> Import sounds y elegir el archivo de audio
+Luego, ir a Game Events -> Enemies -> Blade Enemy
+Editar el evento #25 y cambiar el audio file seleccionado por el que importamos.
